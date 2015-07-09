@@ -29,7 +29,7 @@ nav.horizontal ul li{	display: inline-block;}/* horizontal menu */
 img{max-width:100%;}
 /*end reset*/
 body {
-	font-family: 'Lato', sans-serif;
+	font-family: Verdana, 'Lato', sans-serif;
 	font-size: 100%;
 	background: #ffffff;
 }
@@ -61,7 +61,7 @@ body {
 	background: #1bbc9b;
 }
 .nav > ul > li > a {
-	font-family: 'Lato', sans-serif;
+	font-family: Verdana, 'Lato', sans-serif;
 	text-transform: uppercase;
 	display: block;
 	font-size: 1em;
@@ -112,7 +112,7 @@ body {
 	font-size: 1em;
 	text-transform: uppercase;
 	margin: 0 auto;
-	width: 10%;
+	width: 15%;
 	text-align: center;
 	padding: 1em 2em;
 }
@@ -173,7 +173,7 @@ body {
 	margin: 2% auto;
 	padding: 0;
 	list-style: none;
-	width: 62%;
+	width: 75%;
 }
 #filters li {
 	float:left;
@@ -280,10 +280,10 @@ body {
 }
 .grid
 {
-	width: 28%;
+	width: 24%;
 	float: left;
 	background: #FFF;
-	margin-right: 8%;
+	margin-left: 1%;
 }
 .dc_zoom_css span.roll_css6:hover {
 	opacity: 0.9;
@@ -384,7 +384,7 @@ body {
 	-webkit-appearance: none;
 	float:left;
 	margin-right: 2em;
-	font-family: 'Lato', sans-serif;
+	font-family: Verdana, 'Lato', sans-serif;
 	font-style: italic;
 	border: 2px solid #CACACA;
 }
@@ -412,7 +412,7 @@ body {
 }
 .contact-form form input[type="submit"] 
 {
-	font-family: 'Lato', sans-serif;
+	font-family: Verdana,'Lato', sans-serif;
 	color:#fff;
 	padding: 0.8em 1.5em;
 	background: #1BBC9B;
@@ -518,13 +518,13 @@ body {
 @media only screen and (max-width:1440px) and (min-width:1366px)
 {
 .wrap {
-	width:75%;
+	width:95%;
 }
 #filters {
 	margin: 2% auto;
 	padding: 0;
 	list-style: none;
-	width:63%;
+	width:70%;
 }
 #portfoliolist .portfolio {
 	width: 20%;
@@ -541,10 +541,10 @@ body {
 @media only screen and (max-width:1366px) and (min-width:1280px)
 {
 .wrap {
-	width:80%;
+	width:85%;
 }
 #filters {
-	width: 65%;
+	width: 75%;
 }
 #portfoliolist .portfolio {
 	width: 20%;
@@ -567,10 +567,10 @@ body {
 @media only screen and (max-width:1280px) and (min-width:1024px)
 {
 	.wrap {
-	width:85%;
+	width:90%;
 }
 #filters {
-	width: 64%;
+	width: 80%;
 }
 #portfoliolist .portfolio {
 	width: 23%;
@@ -587,10 +587,10 @@ body {
 @media only screen and (max-width:1024px) and (min-width:768px)
 {
 .wrap {
-	width:90%;
+	width:100%;
 }
 #filters {
-	width:76%;
+	width:90%;
 }
 #portfoliolist .portfolio {
 	width:22%;
